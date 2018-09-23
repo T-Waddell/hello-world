@@ -11,6 +11,7 @@
 
 	<h1>Hello World</h1>
 	
+	<h2>Picture</h2>
 	<img src="images/Callum6mo041.jpg">
 
 </body>
